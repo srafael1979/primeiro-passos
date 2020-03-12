@@ -1,2 +1,3 @@
 const name = "Rafael Paz";
-console.log("meu nome é :" + name);
+const faculdade = "FICR"
+console.log("meu nome é :" + name + "estudo na" + faculdade);
